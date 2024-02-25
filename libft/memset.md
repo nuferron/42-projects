@@ -1,3 +1,5 @@
+## Filling memory with a constant byte
+
 ### void *memset(void *s, int c, size_t n)
 This function sets n bytes of the memory pointed by s to c. In other words, it writes the c character in s from the beginning of s to n bytes. You can find this function in the [string.h](https://www.tutorialspoint.com/c_standard_library/string_h.htm) header.
 Examples:
